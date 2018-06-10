@@ -1,0 +1,51 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.App-header {
+  background-color: #EEEEEE;
+  height: 50px;
+  padding: 10px;
+  color: Black;
+}
+
+.App-title {
+  font-size: 2.5em;
+}
+
+.Proposal {
+  font-size: 0.4em;
+  font-style: italic;
+  margin-left: 50px;
+  font-family: ClearSans;
+  padding-bottom: 20px;
+}
+
+.Header {
+  font-size: 0.4em;
+  font-style: bold;
+  margin-left: 50px;
+  font-family: ClearSans;
+}
+
+.App-intro {
+  font-size: 0.6em;
+  background: white;
+  margin-left: 50px;
+  margin-right: 50px;
+  text-align: center;
+  font-family: ClearSans;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(720deg); }
+}
